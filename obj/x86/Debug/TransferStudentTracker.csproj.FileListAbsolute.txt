@@ -1,0 +1,17 @@
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\TransferStudentTracker.dll
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\TransferStudentTracker.pdb
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker.csproj.CoreCompileInputs.cache
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker.csproj.CopyComplete
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker.dll
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker.pdb
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker_MarkupCompile.cache
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker_MarkupCompile.lref
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\TransferStudentTracker.g.resources
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\ViewControl\TransferStudentButton.g.cs
+C:\Users\Steven C\source\repos\TransferStudentTracker\obj\x86\Debug\ViewControl\TransferStudentButton.baml
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Emgu.CV.dll
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Emgu.Util.dll
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Emgu.CV.xml
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Emgu.Util.xml
+C:\Users\Steven C\source\repos\TransferStudentTracker\bin\x86\Debug\Newtonsoft.Json.xml
