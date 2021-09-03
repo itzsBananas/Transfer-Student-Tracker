@@ -3,7 +3,7 @@ HDT Plugin that tracks the effect of [Transfer Student](https://hearthstone.fand
 
 # Requirements
 * [Hearthstone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker)
-* EmguCV 3.0^
+* EmguCV 3.0^ (C# Wrapper of OpenCV)
 
 # How to Run
 * Soon to come
